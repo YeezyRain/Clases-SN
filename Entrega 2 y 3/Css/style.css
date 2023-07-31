@@ -1,0 +1,16 @@
+.nitido {
+    color: aqua;
+    font-weight: 100;
+    display: grid;
+    width: 50%;
+    margin: 0 auto;
+    font-size: small;
+}
+
+.nitidoni {
+    background-color:aqua;
+}
+
+.Bordes {
+    border: 2;
+}
